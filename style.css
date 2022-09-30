@@ -1,0 +1,52 @@
+p{
+    color: cyan;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+    color: black;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 30px;
+}
+.white1,.white2,.white2,.white1,.white1,.white1,.white1,.white1,.white1,.white1{
+    color: white;
+
+}
+span{
+    letter-spacing: 2px;
+    color: blue;
+}
+b{
+    color: chartreuse;
+}
+.first.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+margin-top: 15px;
+background-color: rgb(155,153,153);
+border-radius: 20px;
+box-shadow: 2px 2px 20px goldenrod;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+.bottom{
+    color: royalblue;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+width: 100%;
+font-family:cursive;
+}
